@@ -15,7 +15,7 @@
 #### - Languages and Tools...
 
 <p align="left">
- <img src="https://github.com/pheeling/pheeling/blob/master/resources/pic/languages/azureDevOps.png" alt="Azure DevOps" style="vertical-align:top; margin:4px" width="30px" height="30px"><img src="https://github.com/pheeling/pheeling/blob/master/resources/pic/languages/PowerShell_Core_6.0_icon.png" alt="PSCore" style="vertical-align:top; margin:4px" width="30px" height="30px"><img src="https://github.com/pheeling/pheeling/blob/master/resources/pic/languages/Visual_Studio_Code_1.18_icon.png" alt="Twitter" style="vertical-align:top; margin:4px" width="30px" height="30px">
+ <img src="https://github.com/pheeling/pheeling/blob/master/resources/pic/languages/azureDevOps.png" alt="Azure DevOps" style="vertical-align:top; margin:20px" width="30px" height="30px"><img src="https://github.com/pheeling/pheeling/blob/master/resources/pic/languages/PowerShell_Core_6.0_icon.png" alt="PSCore" style="vertical-align:top; margin:20px" width="30px" height="30px"><img src="https://github.com/pheeling/pheeling/blob/master/resources/pic/languages/Visual_Studio_Code_1.18_icon.png" alt="VisualStudioCode" style="vertical-align:top; margin:20px" width="30px" height="30px">
 
 </p>
 
@@ -23,6 +23,15 @@
 
 - 🔭 I’m currently working on automation with powershell
 - 🌱 I’m currently learning powershell / DevSecOps
+
+<br />
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=pheeling&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+
+<br />
+
+<img src="https://github.com/pheeling/pheeling/blob/master/resources/pic/social/Profession.png" alt="DataProductDesigner" style="vertical-align:top; margin:20px" width="1200px">
 
 <!--
 **pheeling/pheeling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
