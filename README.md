@@ -10,12 +10,19 @@
   <img align="left" alt="MS TechCommunity" width="22px" src="https://github.com/pheeling/pheeling/blob/master/resources/pic/social/Microsoft_logo_social.png" />
 </a>
 
+<br />
+
 #### - Languages and Tools...
 
 <p align="center">
  <img src="https://github.com/pheeling/pheeling/blob/master/resources/pic/languages/azureDevOps.png" alt="Azure DevOps" style="vertical-align:top; margin:4px" width="22px" height="22px"><img src="https://github.com/pheeling/pheeling/blob/master/resources/pic/languages/PowerShell_Core_6.0_icon.png" alt="PSCore" style="vertical-align:top; margin:4px" width="22px" height="22px"><img src="https://github.com/pheeling/pheeling/blob/master/resources/pic/languages/Visual_Studio_Code_1.18_icon.png" alt="Twitter" style="vertical-align:top; margin:4px" width="22px" height="22px">
- 
+
 </p>
+
+<br />
+
+- 🔭 I’m currently working on automation with powershell
+- 🌱 I’m currently learning powershell / DevSecOps
 
 <!--
 **pheeling/pheeling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
