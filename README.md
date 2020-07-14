@@ -7,7 +7,7 @@
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/561080">
-  <img align="left" alt="MS TechCommunity" width="22px" src="" />
+  <img align="left" alt="MS TechCommunity" width="22px" src="https://github.com/pheeling/pheeling/blob/master/resources/pic/social/Microsoft_logo_social.png" />
 </a>
 
 <!--
