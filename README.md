@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, looking for more [/'pi:eɪtʃ/eeling](https://philipphiestand.ch) 👋
+
+<a href="https://www.linkedin.com/in/philipp-hiestand-498a8673/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/philipphiestand/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 <!--
 **pheeling/pheeling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
