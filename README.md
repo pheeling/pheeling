@@ -27,6 +27,7 @@
 
 - 🔭 I’m currently working on automation with powershell
 - 🌱 I’m currently learning powershell / DevSecOps
+- ⚡ I'm currently looking into IOTA
 
 <br />
 
