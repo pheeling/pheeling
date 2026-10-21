@@ -25,9 +25,9 @@
 
 <br />
 
-- 🔭 I’m currently working on automation with powershell
+- 🔭 I’m currently working on automation with powershell, j sonata and SOAR.
 - 🌱 I’m currently learning powershell / DevSecOps
-- ⚡ I'm currently looking into IOTA
+- ⚡ I'm currently looking into AI assisted coding
 
 <br />
 
